@@ -1,1 +1,1 @@
-# version-control-practice
+# version-control-practiceSee docs for more info
